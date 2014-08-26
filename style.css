@@ -2,8 +2,11 @@ p {
 color:red;
 }
 body {
-  background-image: url('http://upload.wikimedia.org/wikipedia/commons/a/a8/Fresh_ramen_noodle_001.jpg')
+  
     align:center;
     text-align:center;
     background-color: tan;
+}
+body {
+    background-image: url('http://fc03.deviantart.net/fs70/i/2012/088/b/0/skillet_background_by_camelfox01-d4uclhw.png');
 }
