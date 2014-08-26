@@ -11,7 +11,7 @@ body {
 
 }
 body {
-    border-style: groove;
+    border-style: outset;
     border-color: green;
     border-width: 8px;
 }
