@@ -13,4 +13,5 @@ body {
 body {
     border-style: groove;
     border-color: green;
+    border-width: 8px;
 }
