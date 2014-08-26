@@ -8,4 +8,6 @@ body {
 }
 body {
     background-image: url('http://upload.wikimedia.org/wikipedia/commons/a/a8/Fresh_ramen_noodle_001.jpg');
+    height: 100%;
+    width: 100%;
 }
