@@ -1,0 +1,5 @@
+$(document).ready(function(){
+        $('#table1').hide();
+        $('#table1').fadeIn(1000);
+      });
+$('#table1').fadeIn(1000);
